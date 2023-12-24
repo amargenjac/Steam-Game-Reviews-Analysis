@@ -6,6 +6,6 @@ Link to the dataset: https://www.kaggle.com/datasets/najzeko/steam-reviews-2021
 More informations about this project can be found on: https://docs.google.com/document/d/1exZrAz40O720pIIn91_x9XRurxh2GvxeN1dpilxhSQk/edit?usp=sharing
 
 Collaborators:
-- Ejub Šabić - @saba8814
-- Amar Fazlić - @amar-exe
-- Amar Genjac - @amargenjac
+- [Ejub Šabić](https://github.com/saba8814)
+- [Amar Fazlić](https://github.com/amar-exe)
+- [Amar Genjac](https://github.com/amargenjac)
