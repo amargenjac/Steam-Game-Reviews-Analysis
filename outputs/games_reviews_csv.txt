@@ -1,0 +1,314 @@
+20XX	3610
+A Hat in Time	34979
+A Short Hike	5847
+A Way Out	10941
+ARK: Survival Evolved	400009
+ATLAS	37210
+Age of Empires II (2013)	86513
+Age of Empires: Definitive Edition	5963
+American Truck Simulator	71140
+Among Us	485293
+Ancestors Legacy	5403
+Arma 3	182348
+Artifact	23509
+Assassin's Creed Odyssey	92766
+Assassin's Creed Origins	62294
+Avorion	8108
+Axiom Verge	4015
+BATTALION 1944	16004
+BATTLETECH	21813
+BERSERK and the Band of the Hawk	1601
+Baba Is You	11762
+Banished	34675
+Batman: Arkham Asylum GOTY Edition	31062
+Battle Royale Trainer	1600
+BattleBlock Theater	59317
+BeamNG.drive	60096
+Beat Saber	46043
+BioShock Infinite	107277
+Black Desert Online	36968
+Black Mesa	56895
+Blackwake	21147
+Bless Online	10197
+Bloons TD 6	59760
+Bomber Crew	7689
+Borderlands 3	67080
+Broforce	40977
+Budget Cuts	1298
+CHRONO TRIGGER	3802
+Call of Duty: Infinite Warfare	20736
+Call of Duty: WWII	27617
+Castle Crashers	74916
+Cave Story+	6208
+Celeste	31454
+Cities: Skylines	147028
+Clicker Heroes 2	2100
+Cold Waters	2714
+Conan Exiles	62151
+Counter-Strike: Source	118081
+Crash Bandicoot™ N. Sane Trilogy	10313
+Crusader Kings III	45151
+Cube World	16333
+Cuphead	68691
+Cyberdimension Neptunia: 4 Goddesses Online	4200
+DARK SOULS™ III	235422
+DARK SOULS™: REMASTERED	36603
+DEATH STRANDING	47781
+DOOM	139973
+DOOM Eternal	105196
+DRAGON BALL FighterZ	34629
+DRAGON QUEST HEROES™ II	600
+DUSK	11050
+DYNASTY WARRIORS 9	7807
+Danganronpa 2: Goodbye Despair	13622
+Danganronpa: Trigger Happy Havoc	16689
+Darkest Dungeon®	86384
+Darksiders III	10008
+Day of Infamy	20908
+Dead Cells	64772
+Dead Rising 4	4308
+Dead by Daylight	418897
+Deep Rock Galactic	72059
+Desolate	5503
+Detention	9203
+Deus Ex: The Fall	3610
+Devil May Cry HD Collection	2999
+DiRT 4	11020
+Dishonored	56337
+Divinity: Original Sin 2	113508
+Doki Doki Literature Club	148837
+Don't Escape: 4 Days to Survive	1013
+Don't Starve	85088
+Don't Starve Together	238636
+Down To One	2101
+Dragon Cliff 龙崖	4601
+Duck Game	27945
+Due Process	3104
+Dungreed	5312
+Dying Light	214431
+Eco	5918
+Enter the Gungeon	55358
+Euro Truck Simulator 2	387553
+Europa Universalis IV	85477
+FAR: Lone Sails	8005
+FINAL FANTASY XII THE ZODIAC AGE	4207
+FINAL FANTASY XIV Online	29941
+FINAL FANTASY XV WINDOWS EDITION	32864
+FTL: Faster Than Light	57466
+Factorio	108282
+Fairy Fencer F Advent Dark Force	2101
+Fallout 4	228957
+Far Cry 5	85745
+Farm Manager 2018	2002
+Farm Together	12317
+Farming Simulator 19	38429
+Finding Paradise	10429
+Fishing: Barents Sea	1802
+Football Manager 2019	11906
+For Honor	93971
+For The King	17118
+Foundation	7060
+Freeman: Guerrilla Warfare	9904
+Frostpunk	59768
+GOD EATER 3	5128
+GRIS	38048
+Garry's Mod	655524
+Getting Over It with Bennett Foddy	31970
+Ghost of a Tale	3303
+Golf It!	11515
+Grand Theft Auto V	1019116
+Grimm's Hollow	5345
+Guacamelee! Super Turbo Championship Edition	5318
+Gunpoint	11610
+HITMAN™ 2	48372
+Hades	118416
+Half-Life	57320
+Half-Life 2: Episode Two	23500
+Half-Life: Alyx	51099
+Hearts of Iron IV	116255
+Helltaker	86306
+Heroes of Hammerwatch	5207
+Hollow Knight	269854
+Hotline Miami	60074
+House Flipper	36092
+Human: Fall Flat	123604
+HuniePop	24666
+Hunt Down The Freeman	1815
+Hunt: Showdown	79345
+Iconoclasts	2800
+Identity	1804
+Insurgency: Sandstorm	64638
+Into the Breach	11246
+Jurassic World Evolution	38096
+Just Cause 3	82168
+Just Cause 4	18111
+Just Shapes & Beats	9256
+Keep Talking and Nobody Explodes	8813
+Kenshi	39936
+Kingdom Come: Deliverance	72944
+Kingdom Two Crowns	6709
+Little Nightmares	20982
+METAL GEAR SURVIVE	4104
+MORDHAU	82327
+Mark of the Ninja	15501
+Middle-earth™: Shadow of War™	54196
+Mirror	60195
+Momodora: Reverie Under the Moonlight	8218
+Monster Hunter: World	290946
+Monster Prom	8012
+Mount & Blade: Warband	123905
+Mutant Year Zero: Road to Eden	16208
+My Time At Portia	29557
+NBA 2K18	18718
+NBA 2K19	22437
+NBA 2K21	15735
+Neon Hardcorps	200
+Nether	17406
+Ni no Kuni™ II: Revenant Kingdom	7609
+NieR:Automata™	81110
+Night in the Woods	10808
+Nioh: Complete Edition	24622
+No Man's Sky	182045
+Northgard	32733
+Nova Drift	3539
+One Finger Death Punch	15504
+OneShot	18975
+Ori and the Will of the Wisps	52554
+Out of the Park Baseball 19	700
+Outlast	65525
+Overcooked! 2	26015
+Oxygen Not Included	59920
+PAYDAY 2	487747
+PC Building Simulator	29623
+PLAYERUNKNOWN'S BATTLEGROUNDS	1644255
+Papers, Please	39882
+Pathfinder: Kingmaker	20386
+People Playground	26319
+Persona 4 Golden	40180
+Phasmophobia	219090
+Phoenix Wright: Ace Attorney Trilogy	9360
+Pillars of Eternity II: Deadfire	11619
+Pit People	6806
+PixARK	7711
+Planet Coaster	43637
+Pogostuck: Rage With Your Friends	2332
+Portal 2	232329
+Puyo Puyo™Tetris® 	4497
+Raft	97930
+Railway Empire	6302
+Rapture Rejects	1603
+Ravenfield	31746
+Resident Evil 2	82650
+Resident Evil 7 Biohazard	36142
+RimWorld	94041
+Rise of Industry	3102
+Rise of the Tomb Raider	91106
+Rocket League	498565
+RollerCoaster Tycoon World	5304
+Rules Of Survival	4902
+Rust	549074
+SCUM	44913
+SENRAN KAGURA ESTIVAL VERSUS	4105
+SENRAN KAGURA Peach Beach Splash	3100
+SOS	6900
+SOULCALIBUR VI	8211
+STAR WARS™ Empire at War: Gold Pack	20553
+STEINS;GATE	9621
+STEINS;GATE 0	3202
+Saints Row: The Third	59305
+Salt and Sanctuary	12362
+Satisfactory	42449
+Secret of Mana	1900
+Sekiro™: Shadows Die Twice	119760
+Senren＊Banka	5034
+Shadow Complex Remastered	700
+Shovel Knight: Treasure Trove	13030
+Sid Meier's Civilization V	171404
+Sid Meier's Civilization VI	143789
+SimAirport	2803
+Slay the Spire	86023
+Slime Rancher	58049
+Slipstream	1103
+Sniper Elite 4	28252
+South Park™: The Stick of Truth™	44849
+Stardew Valley	315717
+Staxel	3500
+Stay Out	7170
+Steel Division: Normandy 44	5201
+Stellaris	94667
+Streets of Rogue	12711
+Styx: Shards of Darkness	3204
+Subnautica	152414
+Super Hexagon	22216
+Super Meat Boy	28192
+Surviving Mars	13714
+Sword Art Online: Fatal Bullet	14612
+Tabletop Simulator	37766
+Takedown: Red Sabre	5502
+Tales of Berseria	11904
+Terraria	672815
+The Binding of Isaac	48838
+The Binding of Isaac: Rebirth	124389
+The Crew 2	37744
+The Elder Scrolls Online	91923
+The Elder Scrolls V: Skyrim	294966
+The Elder Scrolls V: Skyrim Special Edition	142509
+The End Is Nigh	2018
+The Forest	239734
+The Henry Stickmin Collection	19400
+The Legend of Heroes: Trails of Cold Steel II	1701
+The Room	15820
+The Room Two	11336
+The Sims(TM) 3	22812
+The Walking Dead	52757
+The Wild Eight	5601
+The Witcher 3: Wild Hunt	469395
+The Wolf Among Us	24931
+There Is No Game: Wrong Dimension	8409
+They Are Billions	31842
+Thief Simulator	9626
+Thimbleweed Park	2800
+Titan Souls	5714
+To the Moon	52738
+Tom Clancy's Ghost Recon® Wildlands	51460
+Tom Clancy's Rainbow Six Siege	841918
+Tomb Raider	181054
+Torment: Tides of Numenera	3601
+Total War Saga: Thrones of Britannia	10009
+Total War: ROME II - Emperor Edition	57149
+Total War: THREE KINGDOMS	66982
+Total War: WARHAMMER	46205
+Total War: WARHAMMER II	85255
+Totally Accurate Battle Simulator	52119
+Totally Accurate Battlegrounds	34465
+Toukiden 2	1200
+Townscaper	7601
+Trailmakers	6026
+Train Sim World® 2020	6504
+Two Point Hospital	22116
+ULTRAKILL	5584
+Ultimate Marvel vs. Capcom 3	2804
+Umbrella Corps	2505
+Undertale	144351
+Urban Empire	2300
+VA-11 Hall-A: Cyberpunk Bartender Action	23694
+Vampyr	13312
+Void Bastards	3573
+Volgarr the Viking	2202
+WWE 2K17	1499
+WWE 2K19	2907
+WWE 2K20	3638
+Wallpaper Engine	292790
+Warhammer	87529
+Watch_Dogs 2	47742
+We Were Here Too	3809
+Wolfenstein: Youngblood	7445
+X Rebirth	7001
+X-Blades	2805
+X-Plane 11	10000
+XCOM 2	61636
+Yakuza 0	31775
+Youtubers Life	12621
+app_name	1
+theHunter: Call of the Wild™	67240
+三国群英传8 Heroes of the Three Kingdoms 8	8111
